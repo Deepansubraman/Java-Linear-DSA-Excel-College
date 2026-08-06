@@ -1,147 +1,253 @@
 # 🚀 15-Day Java & Linear Data Structures Training
 
 ![Java](https://img.shields.io/badge/Language-Java-red)
-![DSA](https://img.shields.io/badge/Data%20Structures-Linear-blue)
-![Course](https://img.shields.io/badge/Training-15%20Days-success)
-
-## 📖 About
-
-This repository contains all the Java programs, coding exercises, assignments, and practice problems covered during the **15-Day Java & Linear Data Structures Training Program** conducted for the students of **KSR College of Engineering, Tiruchengode**.
-
-The training focused on building a strong programming foundation using **Core Java**, **Object-Oriented Programming**, and **Linear Data Structures**, preparing students for coding interviews, placements, and competitive programming.
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Linear-blue)
+![Training](https://img.shields.io/badge/Duration-15%20Days-success)
+![College](https://img.shields.io/badge/Institution-Excel%20College%20of%20Engineering-orange)
 
 ---
 
-## 🏫 Institution
+# 📖 About This Repository
 
-**KSR College of Engineering**  
-Tiruchengode, Tamil Nadu, India
+Welcome to the **15-Day Java & Linear Data Structures Training** repository.
 
----
+This repository contains all the Java source codes, practice programs, assignments, examples, and coding exercises covered during the **15-Day Java & Linear Data Structures Training Program** conducted for the students of **Excel College of Engineering, Salem**.
 
-## 🎯 Training Objectives
+The primary objective of this repository is to help students revise Java programming concepts and strengthen their understanding of Object-Oriented Programming (OOP) and Linear Data Structures through hands-on coding.
 
-- Learn Java Programming from scratch
-- Master Object-Oriented Programming concepts
-- Understand Recursion and Arrays
-- Build custom Linear Data Structures
-- Improve Logical Thinking & Problem Solving
-- Prepare for Technical Interviews and Placement Coding Tests
+Whether you're preparing for placements, coding interviews, university examinations, or simply improving your programming skills, this repository provides organized examples and implementations for each day's topics.
 
 ---
 
-# 📅 Course Schedule
+# 🏫 Institution
 
-## Day 1 – Java Fundamentals & Operators
-- Java Introduction
-- JVM, JDK, JRE
+**Excel College of Engineering**  
+Salem, Tamil Nadu, India
+
+---
+
+# 🎯 Training Objectives
+
+- Learn Java Programming from Basics to Advanced
+- Understand Object-Oriented Programming Concepts
+- Build Problem-Solving Skills
+- Learn Recursive Programming
+- Master Arrays and Strings
+- Implement Linear Data Structures
+- Improve Coding Logic
+- Prepare for Technical Interviews
+- Strengthen Placement Readiness
+
+---
+
+# 📅 Training Schedule
+
+## 📘 Day 1 – Java Fundamentals & Operators
+
+### Topics
+- Introduction to Java
+- JVM
+- JDK
+- JRE
+- Java Program Structure
 - Variables
 - Data Types
 - Type Casting
 - Operators
 
+### Practice
+- Basic Java Programs
+- Arithmetic Operations
+- User Input Programs
+
 ---
 
-## Day 2 – Decision Making
-- if
+## 📘 Day 2 – Decision Making
+
+### Topics
+- if Statement
 - if-else
-- else-if ladder
+- else-if Ladder
 - Nested if
 - switch-case
-- Conditional Expressions
+- Conditional Operator
+
+### Practice
+- Grade Calculator
+- Electricity Bill
+- Voting Eligibility
+- Largest Number
+- Menu Driven Programs
 
 ---
 
-## Day 3 – Loop Control & Number Programs
-- for loop
-- while loop
-- do-while
+## 📘 Day 3 – Loop Control & Number Programs
+
+### Topics
+- for Loop
+- while Loop
+- do-while Loop
+- Nested Loops
 - break
 - continue
+
+### Practice
 - Prime Number
 - Armstrong Number
+- Palindrome Number
+- Perfect Number
 - Fibonacci Series
+- Reverse Number
+- Sum of Digits
 - Pattern Programs
 
 ---
 
-## Day 4 – Methods & Functions
+## 📘 Day 4 – Methods & Functions
+
+### Topics
 - Method Declaration
-- Parameters & Arguments
-- Return Types
+- Method Calling
+- Parameters
+- Arguments
+- Return Type
 - Method Overloading
-- Calculator Programs
+
+### Practice
+- Calculator
+- Area Calculator
+- Number Utility Programs
 
 ---
 
-## Day 5 – Recursion
+## 📘 Day 5 – Recursion
+
+### Topics
 - Recursive Methods
 - Base Condition
+- Recursive Calls
 - Call Stack
-- Head & Tail Recursion
+- Head Recursion
+- Tail Recursion
+
+### Practice
 - Factorial
 - Fibonacci
-- Number Reversal
 - Power Calculation
+- Reverse Number
+- Sum of Digits
 
 ---
 
-## Day 6 – Arrays
-- 1D Arrays
+## 📘 Day 6 – Arrays
+
+### Topics
+- One Dimensional Arrays
 - Traversal
 - Searching
 - Insertion
 - Deletion
 - Updating Elements
 
+### Practice
+- Linear Search
+- Maximum Element
+- Minimum Element
+- Array Rotation
+- Duplicate Elements
+
 ---
 
-## Day 7 – 2D Arrays & Strings
-- Matrix Operations
-- String Methods
-- StringBuilder
-- Palindrome
-- Anagram
+## 📘 Day 7 – 2D Arrays & Strings
+
+### Topics
+#### 2D Arrays
+- Matrix Traversal
 - Matrix Addition
+- Matrix Multiplication
 - Matrix Transpose
 
+#### Strings
+- String Methods
+- StringBuilder
+- String Immutability
+
+### Practice
+- Reverse String
+- Palindrome
+- Anagram
+- Character Frequency
+
 ---
 
-## Day 8 – Classes & Objects
+## 📘 Day 8 – Classes & Objects
+
+### Topics
 - Classes
 - Objects
+- Fields
+- Methods
 - Constructors
 - Constructor Overloading
 
+### Practice
+- Student Class
+- Employee Class
+- Bank Account
+
 ---
 
-## Day 9 – Inheritance
+## 📘 Day 9 – Inheritance
+
+### Topics
 - this Keyword
 - super Keyword
 - Single Inheritance
 - Multilevel Inheritance
 - Hierarchical Inheritance
 
+### Practice
+- Employee Management
+- Vehicle Hierarchy
+- Student Hierarchy
+
 ---
 
-## Day 10 – Polymorphism & Encapsulation
+## 📘 Day 10 – Polymorphism & Encapsulation
+
+### Topics
 - Method Overloading
 - Method Overriding
 - Runtime Polymorphism
+- Encapsulation
 - Access Modifiers
 - Getter & Setter
 
+### Practice
+- Employee Management System
+- Banking System
+
 ---
 
-## Day 11 – Abstraction & Interface
+## 📘 Day 11 – Abstraction & Interface
+
+### Topics
 - Abstract Class
+- Abstract Method
 - Interface
 - Multiple Interfaces
 - final Keyword
 
+### Practice
+- Payment Gateway
+- Shape Calculator
+- Online Shopping System
+
 ---
 
-## Day 12 – Exception & File Handling
+## 📘 Day 12 – Exception & File Handling
+
+### Topics
 - try
 - catch
 - finally
@@ -152,9 +258,16 @@ Tiruchengode, Tamil Nadu, India
 - FileWriter
 - BufferedReader
 
+### Practice
+- File Reading
+- File Writing
+- Exception Handling Programs
+
 ---
 
-## Day 13 – Singly Linked List
+## 📘 Day 13 – Singly Linked List
+
+### Topics
 - Node Creation
 - Traversal
 - Insertion
@@ -162,24 +275,51 @@ Tiruchengode, Tamil Nadu, India
 - Searching
 - Reversal
 
+### Practice
+- Custom Singly Linked List
+- Insert at Beginning
+- Insert at End
+- Delete Node
+- Reverse List
+
 ---
 
-## Day 14 – Doubly & Circular Linked List
-- Doubly Linked List
-- Circular Linked List
-- Insertions
-- Deletions
+## 📘 Day 14 – Doubly & Circular Linked List
+
+### Topics
+#### Doubly Linked List
+- Previous Node
+- Next Node
+- Traversal
+- Insertion
+- Deletion
+
+#### Circular Linked List
+- Circular Node Linking
+- Traversal
+- Insert
+- Delete
+
+### Practice
+- Complete Doubly Linked List
+- Complete Circular Linked List
 
 ---
 
-## Day 15 – Stack & Queue
-- Stack (LIFO)
-- Queue (FIFO)
+## 📘 Day 15 – Stack & Queue
+
+### Stack
+- LIFO
 - Push
 - Pop
 - Peek
+
+### Queue
+- FIFO
 - Enqueue
 - Dequeue
+
+### Implementations
 - Stack using Array
 - Stack using Linked List
 - Queue using Array
@@ -187,73 +327,111 @@ Tiruchengode, Tamil Nadu, India
 
 ---
 
-# 📁 Repository Structure
+# 📂 Repository Structure
 
 ```
-Day01_Java_Fundamentals/
-Day02_Decision_Making/
-Day03_Loops/
-Day04_Methods/
-Day05_Recursion/
-Day06_Arrays/
-Day07_2D_Arrays_Strings/
-Day08_Classes_Objects/
-Day09_Inheritance/
-Day10_Polymorphism_Encapsulation/
-Day11_Abstraction_Interface/
-Day12_Exception_FileHandling/
-Day13_Singly_LinkedList/
-Day14_Doubly_Circular_LinkedList/
-Day15_Stack_Queue/
+15-Day-Java-Linear-DSA/
+│
+├── Day01_Java_Fundamentals/
+├── Day02_Decision_Making/
+├── Day03_Loops_Number_Programs/
+├── Day04_Methods_Functions/
+├── Day05_Recursion/
+├── Day06_Arrays/
+├── Day07_2D_Arrays_Strings/
+├── Day08_Classes_Objects/
+├── Day09_Inheritance/
+├── Day10_Polymorphism_Encapsulation/
+├── Day11_Abstraction_Interface/
+├── Day12_Exception_File_Handling/
+├── Day13_Singly_Linked_List/
+├── Day14_Doubly_Circular_Linked_List/
+├── Day15_Stack_Queue/
+│
+└── README.md
 ```
 
 ---
 
-# 💡 Learning Outcomes
+# 🎓 Learning Outcomes
 
 After completing this training, students will be able to:
 
-- Develop Java applications confidently.
-- Apply Object-Oriented Programming principles.
-- Solve logical and mathematical programming problems.
+- Write efficient Java programs.
+- Apply Object-Oriented Programming concepts effectively.
+- Understand Recursive Thinking.
+- Perform Array Manipulation.
+- Solve String-based Problems.
 - Implement Linear Data Structures from scratch.
-- Understand Recursion and Algorithmic Thinking.
-- Build interview-ready Java coding skills.
+- Improve Problem-Solving Skills.
+- Build Interview-Level Coding Confidence.
+- Prepare for Placement Coding Tests.
 
 ---
 
-# 👨‍🎓 Who Can Use This Repository?
+# 💻 Technologies Used
+
+- Java
+- VS Code / IntelliJ IDEA / Eclipse
+- JDK 17+
+- Command Prompt / Terminal
+
+---
+
+# 👨‍🎓 Intended Audience
+
+This repository is useful for:
 
 - Engineering Students
 - Java Beginners
 - Placement Aspirants
-- College Faculty
+- Faculty Members
 - Self-Learners
 - Competitive Programmers
 
 ---
 
-# ⭐ If You Like This Repository
+# ⭐ Support
 
-If this repository helped you learn Java and Data Structures:
+If you find this repository helpful:
 
-- ⭐ Star this repository
-- 🍴 Fork it for practice
-- 📢 Share it with your friends
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with your friends
+
+💻 Practice every program
 
 ---
 
 # 📜 License
 
-This repository is intended for **educational and learning purposes only**.
+This project is created for **educational and learning purposes only**.
+
+Feel free to use the code for learning, teaching, and academic practice.
 
 ---
 
-## 👨‍🏫 Training Conducted For
+# 👨‍🏫 Training Conducted For
 
-**KSR College of Engineering**  
-Tiruchengode, Tamil Nadu, India
+**Excel College of Engineering**  
+Salem, Tamil Nadu, India
 
 ---
 
-## 🚀 Happy Coding & Keep Learning!
+# 📧 Maintainer
+
+**Your Name**
+
+Java Trainer | Full Stack Developer | DSA Mentor
+
+GitHub: https://github.com/your-username
+
+---
+
+# 🚀 Happy Coding!
+
+> *"Programming isn't about what you know; it's about what you can build through consistent practice."*
+
+**Keep Learning • Keep Coding • Keep Growing 🚀**
