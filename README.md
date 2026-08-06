@@ -325,33 +325,7 @@ Salem, Tamil Nadu, India
 - Queue using Array
 - Queue using Linked List
 
----
 
-# 📂 Repository Structure
-
-```
-15-Day-Java-Linear-DSA/
-│
-├── Day01_Java_Fundamentals/
-├── Day02_Decision_Making/
-├── Day03_Loops_Number_Programs/
-├── Day04_Methods_Functions/
-├── Day05_Recursion/
-├── Day06_Arrays/
-├── Day07_2D_Arrays_Strings/
-├── Day08_Classes_Objects/
-├── Day09_Inheritance/
-├── Day10_Polymorphism_Encapsulation/
-├── Day11_Abstraction_Interface/
-├── Day12_Exception_File_Handling/
-├── Day13_Singly_Linked_List/
-├── Day14_Doubly_Circular_Linked_List/
-├── Day15_Stack_Queue/
-│
-└── README.md
-```
-
----
 
 # 🎓 Learning Outcomes
 
